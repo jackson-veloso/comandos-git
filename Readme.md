@@ -1,6 +1,8 @@
-# configuração pós instalação:
+# Comandos GIT:
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
+
+# configuração pós instalação:
 ## definir username
 git config --global user.name "jackson-veloso"
 
