@@ -1,13 +1,14 @@
 # Comandos GIT:
+Referência:
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 
 # configuração pós instalação:
 ## definir username
-git config --global user.name "jackson-veloso"
+git config --global user.name "USERNAME"
 
 ## definir email
-git config --global user.email "jackson.veloso@hotmail.com"
+git config --global user.email "EMAIL"
 
 ## definir editor principal
 git config --global core.editor nano
@@ -108,6 +109,7 @@ git revert "ID COMMIT"
 
 # integrar vscode com github
 https://imasters.com.br/desenvolvimento/use-git-com-interface-grafica-visual-studio-code-e-aumente-sua-produtividade
+
 
 
 
